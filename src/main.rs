@@ -3,7 +3,7 @@ use std::io;
 fn main() {
     println!("Guess the number!hello");
 
-    println!("Please input your guess.");
+    println!("Please input your guess and wait.");
 
     let mut guess = String::new();
     let mut x = String::new();
